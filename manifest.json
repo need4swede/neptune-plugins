@@ -9,6 +9,22 @@
     "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-jellyfin-plugin/main/assets/logo.png",
     "versions": [
       {
+        "version": "1.0.2.0",
+        "changelog": "Release 1.0.2.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-jellyfin-plugin/releases/download/v1.0.2/neptune_1.0.2_jf-10.11.zip",
+        "checksum": "d2b86d7a5f4e4b705b74e314617ff590",
+        "timestamp": "2026-04-29T15:43:43Z"
+      },
+      {
+        "version": "1.0.2.0",
+        "changelog": "Release 1.0.2.0.",
+        "targetAbi": "10.10.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-jellyfin-plugin/releases/download/v1.0.2/neptune_1.0.2_jf-10.10.zip",
+        "checksum": "461a4e4cac89a4e9793bf7fe8c5da881",
+        "timestamp": "2026-04-29T15:43:43Z"
+      },
+      {
         "version": "1.0.1.0",
         "changelog": "Release 1.0.1.0.",
         "targetAbi": "10.11.0.0",
