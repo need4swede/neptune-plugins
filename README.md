@@ -3,14 +3,10 @@
 In Jellyfin, open **Dashboard → Plugins → Repositories** and add:
 
 ```
-https://raw.githubusercontent.com/need4swede/neptune-jellyfin-plugin/main/manifest.json
+https://plugins.neptuneplayer.com/manifest.json
 ```
 
-Open the **Catalog** tab, install **Neptune**, and restart the server.
-
-## Theme Installation
-
-`TBD`
+Open the **Catalog** tab, install **Neptune Indexers** and **Neptune MDM**, and restart the server.
 
 ## License
 
