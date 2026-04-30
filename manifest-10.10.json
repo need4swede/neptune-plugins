@@ -6,7 +6,7 @@
     "overview": "Settings sync and admin controls for Neptune clients.",
     "owner": "need4swede",
     "category": "need4swede",
-    "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/logo.png",
+    "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/mdm.png",
     "versions": [
       {
         "version": "1.0.4.0",
