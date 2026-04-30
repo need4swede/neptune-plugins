@@ -1,13 +1,21 @@
 [
   {
     "guid": "f47b4d88-74a2-459a-a0d6-b211d773f89a",
-    "name": "Neptune",
-    "description": "Companion server plugin for the Neptune client.",
-    "overview": "Companion server plugin for the Neptune client.",
+    "name": "Neptune MDM",
+    "description": "Settings sync and admin controls for Neptune clients.",
+    "overview": "Settings sync and admin controls for Neptune clients.",
     "owner": "need4swede",
     "category": "need4swede",
-    "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-jellyfin-plugin/main/assets/logo.png",
+    "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/logo.png",
     "versions": [
+      {
+        "version": "1.0.4.0",
+        "changelog": "Release 1.0.4.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.0.4/mdm_1.0.4_jf-10.11.zip",
+        "checksum": "6ef99a14d6a636ba756277ee1316a635",
+        "timestamp": "2026-04-30T19:38:09Z"
+      },
       {
         "version": "1.0.3.0",
         "changelog": "Release 1.0.3.0.",
@@ -215,6 +223,25 @@
         "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v0.0.1/neptune_0.0.1_jf-10.11.zip",
         "checksum": "6dce6c9050ac77d0c275a533d2ef7473",
         "timestamp": "2026-04-21T16:53:00Z"
+      }
+    ]
+  },
+  {
+    "guid": "91d87e32-ea5f-4d33-830c-b6eea8754064",
+    "name": "Neptune Indexers",
+    "description": "Library and search index for Neptune.",
+    "overview": "Library and search index for Neptune.",
+    "owner": "need4swede",
+    "category": "need4swede",
+    "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/indexers.png",
+    "versions": [
+      {
+        "version": "1.0.4.0",
+        "changelog": "Release 1.0.4.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.0.4/indexers_1.0.4_jf-10.11.zip",
+        "checksum": "a979090a97c02a4f681b6e72d8816706",
+        "timestamp": "2026-04-30T19:38:09Z"
       }
     ]
   }
