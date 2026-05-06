@@ -6,8 +6,16 @@
     "overview": "Settings sync and admin controls for Neptune clients.",
     "owner": "need4swede",
     "category": "need4swede",
-    "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/logo.png",
+    "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/mdm.jpg",
     "versions": [
+      {
+        "version": "1.1.1.0",
+        "changelog": "Release 1.1.1.0.",
+        "targetAbi": "10.10.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.1/mdm_1.1.1_jf-10.10.zip",
+        "checksum": "3b92e07007cd8f0f59ba2bd25e09a2b8",
+        "timestamp": "2026-05-06T23:26:55Z"
+      },
       {
         "version": "1.1.0.0",
         "changelog": "Release 1.1.0.0.",
@@ -49,8 +57,16 @@
     "overview": "Library and search index for Neptune.",
     "owner": "need4swede",
     "category": "need4swede",
-    "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/logo.png",
+    "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/indexers.jpg",
     "versions": [
+      {
+        "version": "1.1.1.0",
+        "changelog": "Release 1.1.1.0.",
+        "targetAbi": "10.10.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.1/indexers_1.1.1_jf-10.10.zip",
+        "checksum": "49302b518016ed3a4a22ccde9a78a663",
+        "timestamp": "2026-05-06T23:26:55Z"
+      },
       {
         "version": "1.1.0.0",
         "changelog": "Release 1.1.0.0.",
