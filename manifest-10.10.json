@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/mdm.jpg",
     "versions": [
       {
+        "version": "1.1.8.0",
+        "changelog": "Release 1.1.8.0.",
+        "targetAbi": "10.10.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.8/mdm_1.1.8_jf-10.10.zip",
+        "checksum": "161480033411ee8a4dd860be7586bfb0",
+        "timestamp": "2026-06-24T20:57:40Z"
+      },
+      {
         "version": "1.1.7.0",
         "changelog": "Release 1.1.7.0.",
         "targetAbi": "10.10.0.0",
@@ -107,6 +115,14 @@
     "category": "need4swede",
     "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/indexers.jpg",
     "versions": [
+      {
+        "version": "1.1.8.0",
+        "changelog": "Release 1.1.8.0.",
+        "targetAbi": "10.10.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.8/indexers_1.1.8_jf-10.10.zip",
+        "checksum": "e392ce54031a6f61ca1c3757c9d933a4",
+        "timestamp": "2026-06-24T20:57:40Z"
+      },
       {
         "version": "1.1.7.0",
         "changelog": "Release 1.1.7.0.",
