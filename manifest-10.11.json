@@ -9,6 +9,94 @@
     "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/mdm.jpg",
     "versions": [
       {
+        "version": "1.2.4.0",
+        "changelog": "Release 1.2.4.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.2.4/mdm_1.2.4_jf-10.11.zip",
+        "checksum": "0051b8e0b2ce1a3f5137e28eb950fee8",
+        "timestamp": "2026-07-08T03:17:26Z"
+      },
+      {
+        "version": "1.2.3.0",
+        "changelog": "Release 1.2.3.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.2.3/mdm_1.2.3_jf-10.11.zip",
+        "checksum": "abcb752e721c594a9777c389930950db",
+        "timestamp": "2026-07-08T02:10:03Z"
+      },
+      {
+        "version": "1.2.2.0",
+        "changelog": "Release 1.2.2.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.2.2/mdm_1.2.2_jf-10.11.zip",
+        "checksum": "63e44c2ec011e5d2f51727fd9316e997",
+        "timestamp": "2026-07-08T01:17:58Z"
+      },
+      {
+        "version": "1.2.1.0",
+        "changelog": "Release 1.2.1.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.2.1/mdm_1.2.1_jf-10.11.zip",
+        "checksum": "653641bb2cb779f69057076a2f2d5d92",
+        "timestamp": "2026-07-08T00:40:48Z"
+      },
+      {
+        "version": "1.2.0.0",
+        "changelog": "Release 1.2.0.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.2.0/mdm_1.2.0_jf-10.11.zip",
+        "checksum": "0087942889249c80addf3c0fe3297aab",
+        "timestamp": "2026-07-08T00:15:24Z"
+      },
+      {
+        "version": "1.1.13.0",
+        "changelog": "Release 1.1.13.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.13/mdm_1.1.13_jf-10.11.zip",
+        "checksum": "654704a219590a7018c486415ad31c2d",
+        "timestamp": "2026-07-07T04:23:49Z"
+      },
+      {
+        "version": "1.1.12.0",
+        "changelog": "Release 1.1.12.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.12/mdm_1.1.12_jf-10.11.zip",
+        "checksum": "01101b20e7f7d46bccee16ff8a062439",
+        "timestamp": "2026-07-07T04:10:03Z"
+      },
+      {
+        "version": "1.1.11.0",
+        "changelog": "Release 1.1.11.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.11/mdm_1.1.11_jf-10.11.zip",
+        "checksum": "f8e3009fd7e2fdd69dcc17d047923abe",
+        "timestamp": "2026-07-07T03:24:22Z"
+      },
+      {
+        "version": "1.1.10.0",
+        "changelog": "Release 1.1.10.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.10/mdm_1.1.10_jf-10.11.zip",
+        "checksum": "3a468823ced50507bcfa198ded2b1a81",
+        "timestamp": "2026-07-07T02:30:12Z"
+      },
+      {
+        "version": "1.1.9.0",
+        "changelog": "Release 1.1.9.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.9/mdm_1.1.9_jf-10.11.zip",
+        "checksum": "df01ed5a2035b68f08f2871cacccc3b9",
+        "timestamp": "2026-07-04T20:07:04Z"
+      },
+      {
+        "version": "1.1.8.0",
+        "changelog": "Release 1.1.8.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.8/mdm_1.1.8_jf-10.11.zip",
+        "checksum": "ef1ad6e8540a4bfb70805959df7d3571",
+        "timestamp": "2026-06-24T20:57:40Z"
+      },
+      {
         "version": "1.1.7.0",
         "changelog": "Release 1.1.7.0.",
         "targetAbi": "10.11.0.0",
@@ -107,6 +195,94 @@
     "category": "need4swede",
     "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/indexers.jpg",
     "versions": [
+      {
+        "version": "1.2.4.0",
+        "changelog": "Release 1.2.4.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.2.4/indexers_1.2.4_jf-10.11.zip",
+        "checksum": "dd4f08bd6029fcb66c991707c58582c3",
+        "timestamp": "2026-07-08T03:17:25Z"
+      },
+      {
+        "version": "1.2.3.0",
+        "changelog": "Release 1.2.3.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.2.3/indexers_1.2.3_jf-10.11.zip",
+        "checksum": "7e3f92e8202bbe3066aa42e42c17fd66",
+        "timestamp": "2026-07-08T02:10:03Z"
+      },
+      {
+        "version": "1.2.2.0",
+        "changelog": "Release 1.2.2.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.2.2/indexers_1.2.2_jf-10.11.zip",
+        "checksum": "a853bc3714aa4910987d2c27cbddecd4",
+        "timestamp": "2026-07-08T01:17:58Z"
+      },
+      {
+        "version": "1.2.1.0",
+        "changelog": "Release 1.2.1.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.2.1/indexers_1.2.1_jf-10.11.zip",
+        "checksum": "0029ee8edd8f5b3e84b59c81fb9e7937",
+        "timestamp": "2026-07-08T00:40:48Z"
+      },
+      {
+        "version": "1.2.0.0",
+        "changelog": "Release 1.2.0.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.2.0/indexers_1.2.0_jf-10.11.zip",
+        "checksum": "1d56b1eff5c7c798b00560b7b4758fe5",
+        "timestamp": "2026-07-08T00:15:24Z"
+      },
+      {
+        "version": "1.1.13.0",
+        "changelog": "Release 1.1.13.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.13/indexers_1.1.13_jf-10.11.zip",
+        "checksum": "61218f1dca5c201d6d41c21b30de9a00",
+        "timestamp": "2026-07-07T04:23:49Z"
+      },
+      {
+        "version": "1.1.12.0",
+        "changelog": "Release 1.1.12.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.12/indexers_1.1.12_jf-10.11.zip",
+        "checksum": "d718c4808a01f2bba9e23e5868b54dc2",
+        "timestamp": "2026-07-07T04:10:03Z"
+      },
+      {
+        "version": "1.1.11.0",
+        "changelog": "Release 1.1.11.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.11/indexers_1.1.11_jf-10.11.zip",
+        "checksum": "8aeefbdcc516f2206e465ef3fef537d8",
+        "timestamp": "2026-07-07T03:24:22Z"
+      },
+      {
+        "version": "1.1.10.0",
+        "changelog": "Release 1.1.10.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.10/indexers_1.1.10_jf-10.11.zip",
+        "checksum": "e829e1c483a835ed291a3b74af31c1b1",
+        "timestamp": "2026-07-07T02:30:12Z"
+      },
+      {
+        "version": "1.1.9.0",
+        "changelog": "Release 1.1.9.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.9/indexers_1.1.9_jf-10.11.zip",
+        "checksum": "3cdf96fc4585e61c44fba24678417268",
+        "timestamp": "2026-07-04T20:07:04Z"
+      },
+      {
+        "version": "1.1.8.0",
+        "changelog": "Release 1.1.8.0.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.1.8/indexers_1.1.8_jf-10.11.zip",
+        "checksum": "95945939ce44579539f359e1e8a35387",
+        "timestamp": "2026-06-24T20:57:40Z"
+      },
       {
         "version": "1.1.7.0",
         "changelog": "Release 1.1.7.0.",
