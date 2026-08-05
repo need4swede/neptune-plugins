@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/indexers.jpg",
     "versions": [
       {
+        "version": "1.3.1.0",
+        "changelog": "Release 1.3.1.0.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.3.1/indexers_1.3.1_jf-12.0.zip",
+        "checksum": "a66e3d9a6bd7b3ea7f5862888a0463b9",
+        "timestamp": "2026-08-05T17:32:07Z"
+      },
+      {
         "version": "1.3.0.0",
         "changelog": "Release 1.3.0.0.",
         "targetAbi": "12.0.0.0",
@@ -27,6 +35,14 @@
     "category": "need4swede",
     "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/mdm.jpg",
     "versions": [
+      {
+        "version": "1.3.1.0",
+        "changelog": "Release 1.3.1.0.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.3.1/mdm_1.3.1_jf-12.0.zip",
+        "checksum": "9b7d12b66c41fbef40e49ce55c8a083b",
+        "timestamp": "2026-08-05T17:32:07Z"
+      },
       {
         "version": "1.3.0.0",
         "changelog": "Release 1.3.0.0.",
@@ -47,6 +63,14 @@
     "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/transcoder.jpg",
     "versions": [
       {
+        "version": "1.3.1.0",
+        "changelog": "Release 1.3.1.0.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.3.1/transcoder_1.3.1_jf-12.0.zip",
+        "checksum": "1c41fa80d100c8025bfc815c9e8338fb",
+        "timestamp": "2026-08-05T17:32:07Z"
+      },
+      {
         "version": "1.3.0.0",
         "changelog": "Release 1.3.0.0.",
         "targetAbi": "12.0.0.0",
@@ -65,6 +89,14 @@
     "category": "need4swede",
     "imageUrl": "https://raw.githubusercontent.com/need4swede/neptune-plugins/main/assets/studio.jpg",
     "versions": [
+      {
+        "version": "1.3.1.0",
+        "changelog": "Release 1.3.1.0.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/need4swede/neptune-plugins/releases/download/v1.3.1/studio_1.3.1_jf-12.0.zip",
+        "checksum": "72bc2cfd6c11c673fb791d92aba51c61",
+        "timestamp": "2026-08-05T17:32:07Z"
+      },
       {
         "version": "1.3.0.0",
         "changelog": "Release 1.3.0.0.",
